@@ -24,5 +24,5 @@ I enjoy turning raw data into actionable insights.
 | HR Analytics EDA | Python, Pandas, Excel | [View →](https://github.com/madhumithas112007-netizen|)
 
 ## Connect with me
-![LinkedIn](https://www.linkedin.com/in/madhumitha-s-a38740334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-![Email](madhumithas.3929@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/madhumitha-s-a38740334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 [Email me](madhumithas.3929@gmail.com)
