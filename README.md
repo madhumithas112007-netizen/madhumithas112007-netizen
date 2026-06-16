@@ -26,3 +26,7 @@ I enjoy turning raw data into actionable insights.
 ## Connect with me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/madhumitha-s-a38740334?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 [Email me](mailto:madhumithas.3929@gmail.com)
+- 💻 [LeetCode](https://leetcode.com/u/madhumitha_3929/)
+- 🎯 [HackerRank](https://www.hackerrank.com/profile/madhumithas_1121)
+- 🌐 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/madhumithfecr)
+- 🏆 [Unstop](https://unstop.com/u/xzlykmhr8493)
